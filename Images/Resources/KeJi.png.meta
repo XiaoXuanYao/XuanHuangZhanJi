@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 871e247982bda1f429de373368a3c548
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -133368357502137057
+    second: KeJi_0
+  - first:
+      213: 766497042035290752
+    second: KeJi_1
+  - first:
+      213: 2471788114493941352
+    second: KeJi_2
+  - first:
+      213: -3911850454258524119
+    second: KeJi_3
+  - first:
+      213: 5494975514247530542
+    second: KeJi_4
+  - first:
+      213: 3903594254318300951
+    second: KeJi_5
+  - first:
+      213: -4072958216245124599
+    second: KeJi_6
+  - first:
+      213: -8008166781953153404
+    second: KeJi_7
+  - first:
+      213: 5593689679386737147
+    second: KeJi_8
+  - first:
+      213: 8560170831077418377
+    second: KeJi_9
+  - first:
+      213: -2700534989367481167
+    second: KeJi_10
+  - first:
+      213: 220892539448700863
+    second: KeJi_11
+  - first:
+      213: 7274678604732482574
+    second: KeJi_12
+  - first:
+      213: 1380644466485312543
+    second: KeJi_13
+  - first:
+      213: 5845556594471124985
+    second: KeJi_14
+  - first:
+      213: -3170487029084210032
+    second: KeJi_15
+  - first:
+      213: -8673963497867179031
+    second: KeJi_0
+  - first:
+      213: 8646737378254970246
+    second: KeJi_1
+  - first:
+      213: -5361717779333406515
+    second: KeJi_2
+  - first:
+      213: -3045407354933422091
+    second: KeJi_3
+  - first:
+      213: -4898604606226023675
+    second: KeJi_4
+  - first:
+      213: 1301004432068152226
+    second: KeJi_5
+  - first:
+      213: -2978309538022743832
+    second: KeJi_6
+  - first:
+      213: 6145730445886489398
+    second: KeJi_7
+  - first:
+      213: 5433787831000143232
+    second: KeJi_8
+  - first:
+      213: -7413470185889869756
+    second: KeJi_9
+  - first:
+      213: -859859218439670494
+    second: KeJi_10
+  - first:
+      213: 3758427168339288880
+    second: KeJi_11
+  - first:
+      213: -4521162105186215078
+    second: KeJi_12
+  - first:
+      213: -1941249605380050461
+    second: KeJi_13
+  - first:
+      213: 972631418136219731
+    second: KeJi_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KeJi_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0ce2c724ef9780800000000000000
+      internalID: -133368357502137057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 387.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ddaf845d16ff770800000000000000
+      internalID: 766497042035290752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 388
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0afe8561a5795b0800000000000000
+      internalID: 2471788114493941352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 388
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7d4dc552a8cb5d0800000000000000
+      internalID: -3911850454258524119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b3ec68019a40cb0800000000000000
+      internalID: 5494975514247530542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 260.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab81a053a81e0210800000000000000
+      internalID: 3903594254318300951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 260.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02ff2414beaa6d0800000000000000
+      internalID: -4072958216245124599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 260.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330e5077450a4550800000000000000
+      internalID: -8008166781953153404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 133.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0859a9b2e31b86b40800000000000000
+      internalID: 5593689679386737147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 133.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440d519e4201e1990800000000000000
+      internalID: 8560170831077418377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 133.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225fe08b89a2114f0800000000000000
+      internalID: -2700534989367481167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0336a0bb89d982430800000000000000
+      internalID: 220892539448700863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b1b6cf40b9141c0800000000000000
+      internalID: 7274678604732482574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e174f2e4cb4f05e0800000000000000
+      internalID: 1380644466485312543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d46f1f1b7f7d00800000000000000
+      internalID: 5845556594471124985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeJi_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6.75
+        width: 121.25
+        height: 121.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb37258da2004d0800000000000000
+      internalID: -3170487029084210032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KeJi_0: -133368357502137057
+      KeJi_8: 5593689679386737147
+      KeJi_13: 1380644466485312543
+      KeJi_6: -4072958216245124599
+      KeJi_2: 2471788114493941352
+      KeJi_1: 766497042035290752
+      KeJi_14: 5845556594471124985
+      KeJi_5: 3903594254318300951
+      KeJi_11: 220892539448700863
+      KeJi_4: 5494975514247530542
+      KeJi_15: -3170487029084210032
+      KeJi_3: -3911850454258524119
+      KeJi_9: 8560170831077418377
+      KeJi_7: -8008166781953153404
+      KeJi_10: -2700534989367481167
+      KeJi_12: 7274678604732482574
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
